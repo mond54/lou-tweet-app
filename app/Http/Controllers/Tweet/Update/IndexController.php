@@ -22,7 +22,8 @@ class IndexController extends Controller
         if (!$tweetService->checkOwnTweet($request->user()->id, $tweetId)) {
             throw new AccessDeniedHttpException();
         }
-        $tweet = $tweetService->getTweets(); //つぶやき一覧を取得
+
+        $tweet = Tweet::where('id', $tweetId)->firstOrFail();
         return view('tweet.update')->with('tweet', $tweet);
     }
 }
