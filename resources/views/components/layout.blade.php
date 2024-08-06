@@ -7,8 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>{{ $title ?? 'つぶやきアプリ' }}</title>
     @stack('css')
-    <link href="{{ mix('/css/app.css') }}" rel="stylesheet">
-    <script src="{{ mix('/js/app.js') }}" async defer></script>
+    
 </head>
 <body class="bg-gray-50">
     {{ $slot }}

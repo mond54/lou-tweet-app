@@ -1,3 +1,11 @@
+## localhost image
+<img width="960" alt="2024-08-06" src="https://github.com/user-attachments/assets/5b793d30-3bc5-4061-9945-7c7d99ee210b">
+
+## localhost/tweet image
+<img width="960" alt="2024-08-06 (2)" src="https://github.com/user-attachments/assets/3687eb1b-82cd-46bd-b909-fac49f1dae49">
+<img width="960" alt="2024-08-06 (1)" src="https://github.com/user-attachments/assets/aad1c254-0fae-40a1-bc9c-9bf878d7cb17">
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
